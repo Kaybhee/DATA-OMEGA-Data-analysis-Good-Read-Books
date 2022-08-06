@@ -10,5 +10,10 @@ The dataset was obtained inorder to gain key insights on the authors who wrote t
 
 # Data Sourcing:
 ----
-The data used to derive these insights was downloaded from the web https://
+The data used to derive these insights was downloaded from the web and the analysis was done using Microsoft Excel,
+Click [here](dataomega.in/datachallenge/data-challenge--may-2022) to obtain the dataset from the site.
+
+#Data Transformation:
+----
+The data was downloaded and loaded in Excel straight away and made sure to use the dates in several columns to extract the years for respective books
 

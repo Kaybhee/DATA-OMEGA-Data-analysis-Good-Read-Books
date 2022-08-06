@@ -31,4 +31,5 @@ The data was downloaded and loaded in Excel straight away and made sure to use t
 #Findings:
 ----
 The total books recorded were 11127 with an average rating of 3.93. it can be observed that there were 6643 Authors, 2266 Publishers and a total of 27 languages were used, with English being the predominant language with 80%
-Twilight topped both the best rated book and books with the highest reviews with 5M and 94K respectively. It was observed that the highest rated authors is j.k.Rowling/Mary Grand PraÃ© but why wasn't her book the best rated or book with the highest review
+Twilight topped both the best rated book and books with the highest reviews with 5M and 94K respectively. 
+<sup>It was observed that the highest rated authors is j.k.Rowling/Mary Grand PraÃ© but why wasn't her book the best rated or book with the highest review<sup>

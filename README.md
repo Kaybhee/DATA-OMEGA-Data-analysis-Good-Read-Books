@@ -22,7 +22,10 @@ The data was downloaded and loaded in Excel straight away and made sure to use t
 Data visualization:
 ----
 
-
+<p align="center">
+  <img src="Fonts/Screenshot (64).png" width="350" title="hover text">
+  <img src="Fonts/Screenshot (64).png" width="350" alt="accessibility text">
+</p>
 
 
 

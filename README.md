@@ -49,3 +49,5 @@ The aforementioned attributes are what defines a great author but not a great bo
 
 Top 10 publishers that published several books , penguin book is the best rated publisher with 11M. Penguin book is a British publishing house, they are a group of proud publishers of gifted storytellers with 261 books published and vintage published the highest number of books with 318 books.
  
+![Screenshot (76)](https://user-images.githubusercontent.com/106836064/187010559-26b18918-b7f4-4c5f-9d46-6459489c123d.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/106836064/187010562-9286a426-5d96-47ab-895d-d8bf7cf9ad2d.png)

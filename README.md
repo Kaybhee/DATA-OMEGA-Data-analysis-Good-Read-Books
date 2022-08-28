@@ -25,7 +25,7 @@ Data visualization:
 ![Screenshot (66)](https://user-images.githubusercontent.com/106836064/187008303-11c4e8e9-178e-4b93-9990-55d073913cd5.png)
 
 
-#Findings:
+Findings:
 ----
 The total books recorded were 11127 with an average rating of 3.93. it can be observed that there were 6643 Authors, 2266 Publishers and a total of 27 languages were used, with English being the predominant language with 80%
 Twilight topped both the best rated book and books with the highest reviews with 5M and 94K respectively.
@@ -33,9 +33,9 @@ Twilight topped both the best rated book and books with the highest reviews with
 
 
 <sup>It was observed that the highest rated authors are j.k.Rowling/Mary Grand PraÃ© but why was her book not the best rated or book with the highest review?<sup>
---
 
-The attributes that set j.k.Rowling/Mary Grand PraÃ© from her peers is the ability to tell a story I'm the most compelling manner with a reasonable plot, superb characterisation and an incentive imagination.
+
+The attributes that set j.k.Rowling/Mary Grand PraÃ© from her peers is the ability to tell a story in the most compelling manner with a reasonable plot, superb characterisation and an incentive imagination.
 
 The aforementioned attributes are what defines a great author but not a great book overtime according to a particular review which is ostensibly clear and i concur, Having read and saw the reviews  on the classic  "Harry Potter" , her work were mostly about light-hearted children books which allowed her work to avoid much scrutiny from literature critics and this worked in favour of other authors with several books published.
 

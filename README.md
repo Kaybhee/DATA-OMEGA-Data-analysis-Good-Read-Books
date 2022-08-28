@@ -37,7 +37,7 @@ Twilight topped both the best rated book and books with the highest reviews with
 
 The attributes that set j.k.Rowling/Mary Grand PraÃ© from her peers is the ability to tell a story I'm the most compelling manner with a reasonable plot, superb characterisation and an incentive imagination.
 
-The aforementioned attributes are what defines a great author but not a great book overtime, Having read and saw the reviews  on the classic  "Harry Potter" , her work were mostly about light-hearted children books which allowed her work to avoid much scrutiny from literature critics and this worked in favour of other authors with several books published.
+The aforementioned attributes are what defines a great author but not a great book overtime according to a particular review which is ostensibly clear and i concur, Having read and saw the reviews  on the classic  "Harry Potter" , her work were mostly about light-hearted children books which allowed her work to avoid much scrutiny from literature critics and this worked in favour of other authors with several books published.
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/106836064/187009346-4a956c5a-34b0-4c61-a0aa-7651ab1ef2f8.png)
 ![Screenshot (75)](https://user-images.githubusercontent.com/106836064/187010181-a8066173-6071-4984-906e-d27b6f567e91.png)
@@ -51,3 +51,10 @@ Top 10 publishers that published several books , penguin book is the best rated 
  
 ![Screenshot (76)](https://user-images.githubusercontent.com/106836064/187010559-26b18918-b7f4-4c5f-9d46-6459489c123d.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/106836064/187010562-9286a426-5d96-47ab-895d-d8bf7cf9ad2d.png)
+
+NOTABLE MENTIONS
+------
+
+- Eng en is the language predominantly used by most books
+- Stephen king is the author of the book with highest page count
+- war and peace is the book with the highest page count with 7k pages

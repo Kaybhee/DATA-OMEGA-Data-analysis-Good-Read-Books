@@ -54,8 +54,7 @@ Top 10 publishers that published several books , penguin book is the best rated 
 
 NOTABLE MENTIONS
 ------
-
-- Eng en is the language predominantly used by most books
-- Stephen king is the author of the book with highest page count
+- A total of 27 languages were used in 11127 books published, English being the primary language with 81%
+- Stephen king is the author of the book with highest page count 
 - war and peace is the book with the highest page count with 7k pages
 - Mary Grand PraÃ© partnership with j.k.Rowling was as an illustrator, she designed all seven books for the Harry Potter series.

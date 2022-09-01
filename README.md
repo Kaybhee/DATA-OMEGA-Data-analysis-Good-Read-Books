@@ -52,7 +52,7 @@ Top 10 publishers that published several books , penguin book is the best rated 
 ![Screenshot (76)](https://user-images.githubusercontent.com/106836064/187010559-26b18918-b7f4-4c5f-9d46-6459489c123d.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/106836064/187010562-9286a426-5d96-47ab-895d-d8bf7cf9ad2d.png)
 
-NOTABLE MENTIONS
+NUGGETS
 ------
 - A total of 27 languages were used in 11127 books published, English being the primary language with 81%
 - Stephen king is the author of the book with highest page count 
